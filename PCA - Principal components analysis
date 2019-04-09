@@ -1,6 +1,1 @@
 
-Multivariate Analysis often starts out with data involving a substantial number of correlated variables.
-
-# Principal Component Analysis (PCA) 
-Is a dimension-reduction tool that can be used to reduce a large set of variables to a small set
-that still contains most of the information in the large set.
